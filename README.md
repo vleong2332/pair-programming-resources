@@ -11,3 +11,4 @@
 ### Editor
 
 - [motepair](https://github.com/motepair/motepair) - Atom package. In dev.
+- [Floobits](https://floobits.com/) - Cross-editor.
