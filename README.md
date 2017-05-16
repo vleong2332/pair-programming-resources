@@ -4,4 +4,4 @@
 
 ### Video
 
-- ["I Have Pair Programmed for 2,700 hours: Ask Me Anything!"](https://www.youtube.com/watch?v=rIcUXcyC6BA)
+- ["I Have Pair Programmed for 2,700 hours: Ask Me Anything!"](https://www.youtube.com/watch?v=rIcUXcyC6BA) (32 mins) - QA session about pair programming.
