@@ -26,7 +26,7 @@
 ### Video
 
 - ["I Have Pair Programmed for 2,700 hours: Ask Me Anything!"](https://www.youtube.com/watch?v=rIcUXcyC6BA) (32 mins) - QA session about pair programming.
-- ["Pair Programming: 7 Habits of Highly Effective Coder"](https://www.youtube.com/watch?v=5ySLQ5_cQ34)
+- ["Pair Programming: 7 Habits of Highly Effective Coder"](https://www.youtube.com/watch?v=5ySLQ5_cQ34) (5 mins) - Interviews and opinions.
 
 ### Article
 
