@@ -1,11 +1,5 @@
 # Resources for Pair Programming
 
-## General
-
-### Video
-
-- ["I Have Pair Programmed for 2,700 hours: Ask Me Anything!"](https://www.youtube.com/watch?v=rIcUXcyC6BA) (32 mins) - QA session about pair programming.
-
 ## Tools
 
 ### Editor
@@ -26,3 +20,17 @@
 - [Zoom](https://zoom.us/)
 - [Slack+Screenhero](https://orlandodevs.slack.com/screenhero)?
 - [Skype](https://skype.com)
+
+## Skills
+
+### Video
+
+- ["I Have Pair Programmed for 2,700 hours: Ask Me Anything!"](https://www.youtube.com/watch?v=rIcUXcyC6BA) (32 mins) - QA session about pair programming.
+
+### Article
+
+_coming soon_
+
+### Books
+
+_coming soon_
